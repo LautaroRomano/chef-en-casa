@@ -1,0 +1,41 @@
+.container {
+  display: flex;
+  background-color: var(--main-bg-color-ingredient);
+  align-items: center;
+  justify-content: center;
+  width: 105px;
+  min-width: 105px;
+  height: 110px;
+  position: relative;
+  margin: 10px;
+  box-shadow: var(--main-box-shadow);
+}
+
+.containerBorder {
+  display: flex;
+  background-color: var(--main-bg-color-ingredient);
+  align-items: center;
+  justify-content: center;
+  width: 105px;
+  min-width: 105px;
+  height: 110px;
+  position: relative;
+  margin: 10px;
+  box-shadow: var(--main-box-shadow);
+  border: 2px solid var(--main-border-color);
+}
+
+.colorMain {
+  color: #fff;
+}
+
+.icon {
+  font-size: 20px;
+  margin-top: -10px;
+}
+
+.name {
+  position: absolute;
+  bottom: 10px;
+  text-align: center;
+}

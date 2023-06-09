@@ -22,7 +22,7 @@ Chef en Casa es una aplicaci처n que te ayuda a encontrar recetas deliciosas util
 
 Sigue estos pasos para instalar y ejecutar la aplicaci처n:
 
-1. Clona este repositorio: `git clone https://github.com/tu-usuario/chef-en-casa.git`.
+1. Clona este repositorio: `git clone https://github.com/LautaroRomano/chef-en-casa`.
 2. Ingresa al directorio del proyecto: `cd chef-en-casa`.
 3. Instala las dependencias: `npm install`.
 4. Configura las credenciales de la API GPT-3.5 en el archivo `.env`.
@@ -53,7 +53,7 @@ Agradecemos cualquier contribuci처n que puedas hacer para mejorar esta aplicaci�
 
 ## Autor
 
-Esta aplicaci처n fue desarrollada por [Tu Nombre](https://github.com/tu-usuario).
+Esta aplicaci처n fue desarrollada por [Romano Lautaro](https://github.com/LautaroRomano).
 
 ## Licencia
 

@@ -12,7 +12,7 @@ Chef en Casa es una aplicación que te ayuda a encontrar recetas deliciosas util
 
 ## Capturas de pantalla
 
-![Captura de pantalla 1](/screenshots/screenshot1.png)
+![Captura de pantalla 1](https://github.com/LautaroRomano/chef-en-casa/blob/main/images/screenshots/ingredients.png)
 > Ejemplo de selección de ingredientes disponibles.
 
 ![Captura de pantalla 2](/screenshots/screenshot2.png)
